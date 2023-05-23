@@ -15,6 +15,7 @@
   --very-dark-violet: hsl(260, 8%, 14%);
 }
 body {
+  background-color: black;
   font-size: 18px;
   font-family: "poppins", "san-serif";
   /* max-width: 58em; */
